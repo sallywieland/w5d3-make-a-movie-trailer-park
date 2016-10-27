@@ -87,7 +87,7 @@ spaceship3.launch()
 setTimeout(spaceship3.land.bind(spaceship3), 3000)
 spacecraft3.launch()
 setTimeout(spacecraft3.land.bind(spacecraft3), 3000)
-//ask
+
 
 // Class
 spaceship4.launch()
