@@ -21,6 +21,7 @@ var justiceLeague = new Trailer('Justice League', 'fIHH5-HVS9o')
 var logan = new Trailer('Logan', 'gbug3zTm3Ws')
 var jackie = new Trailer('Jackie', 'jjClaFDhSCs')
 
+// Adventurer Mode Sparkles
 $(document).ready (function() {
     $("button").sparkle();
 })
